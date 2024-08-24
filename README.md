@@ -1,2 +1,2 @@
 # portfolio1
-basic portfolio using html,cee,js
+basic portfolio using html,css,js
